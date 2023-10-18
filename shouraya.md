@@ -157,21 +157,21 @@
 6. **Scheduling** - It is the action of assigning resources to perform tasks. The resources may be processors, network links or expansion cards. The tasks may be threads, processes or data flows.
 
 # ▶️Ubuntu Directories
-- */bin* - user Binaries
-- */sbin* - System Binaries
-- */etc* - Configuration Files
-- */dev* - Device Files
-- */proc* - Process Information
-- */var* - Variable Files
-- */tmp* - Temporary Files
-- */usr* - User Programs
-- */home* - Home Directories
-- */boot* - Boot Loader Files
-- */lib* - System Libraries
-- */opt* - Operational Application
-- */mnt* - Mount Directory
-- */media* - Removable Devices 
-- */srv* - Service Data
+ - */bin* - user Binaries
+ - */sbin* - System Binaries
+ - */etc* - Configuration Files
+ - */dev* - Device Files
+ - */proc* - Process Information
+ - */var* - Variable Files
+ - */tmp* - Temporary Files
+ - */usr* - User Programs
+ - */home* - Home Directories
+ - */boot* - Boot Loader Files
+ - */lib* - System Libraries
+ - */opt* - Operational Application
+ - */mnt* - Mount Directory
+ - */media* - Removable Devices 
+ - */srv* - Service Data
 ## Blockchain
 - Satoshi Nakamoto is the creator of Blockchain
 - Blockchain technology is an advanced database mechanism that allows transparent information sharing within a business network.
